@@ -3,6 +3,7 @@
 #--------------------------------------------------------------------------------------------------
 # Name          : CopyProject.py
 # Author        : Mark Pooley (mark-pooley@uiowa.edu)
+# Github        : http://github.com/markpooley
 # Link          : http://www.ppc.uiowa.edu
 # Date          : 2015-02-13 11:09:58
 # Version       : $Id$
