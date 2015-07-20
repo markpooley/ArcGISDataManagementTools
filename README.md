@@ -20,14 +20,14 @@ A Script folder is created as well, and a script called "CopyProject.py" is copi
 
 ####Project folder structure will be as follows:
 - Project Name
-  -MXDs
-  -Output
-    -Tables
-	-Maps
-  -Scripts
-  -ProjectName.gdb
-  -Ouput.gdb
-  -Scratch.gdb
+  - MXDs
+  - Output
+    - Tables
+    - Maps
+  - Scripts
+  - ProjectName.gdb
+  - Ouput.gdb
+  - Scratch.gdb
 
 **It is recommended that you adopt a consistent data naming convention as well. For example, using "temp_" as a prefix to all intermediate data will help identify said data for batch deletion.**
 
