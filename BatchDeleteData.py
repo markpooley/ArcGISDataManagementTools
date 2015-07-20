@@ -4,7 +4,7 @@
 # Name        	: Batch Delete Data
 # Date        	: 2015-07-20
 # Author      	: Mark Pooley (mark-pooley@uiowa.edu)
-# Github		: http:www.github.com/MarkPooley
+# Github	: http:www.github.com/MarkPooley
 # Link        	: http://www.ppc.uiowa.edu
 # Version     	: 1.0
 # Description 	: Batch Delete data containing the user specified wildcard.
