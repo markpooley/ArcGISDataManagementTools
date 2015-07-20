@@ -41,5 +41,5 @@ Potentially unused data is printed the output window.
 ## Batch Delete FC
 Python script and ArcGIS tool for batch deleting feature classes. The user specifies a workspace/geodatabasee and a wildcard. Any feature classes or tables containing the wildcard will be deleted. For example, "temp_*" will delete any tables/feature classes starting with "temp_".
 
-**Simply download all the files here and import the toolbox into ArcGIS**
+**Simply click the "Download Zip" button to the right and export/unzip the folder and import or connect the toolbox into ArcGIS**
 
