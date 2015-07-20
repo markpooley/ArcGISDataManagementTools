@@ -4,11 +4,11 @@
 # Name        	: Junk Data Finder
 # Date        	: 2015-07-17
 # Author      	: Mark Pooley (mark-pooley@uiowa.edu)
-# Github		: http:www.github.com/MarkPooley
+# Github	: http:www.github.com/MarkPooley
 # Link        	: http://www.ppc.uiowa.edu
 # Version     	: 1.0
 # Description 	: Finds potentially unused data in project folders and prints to
-# 				to ouput window.
+# 		to ouput window.
 #--------------------------------------------------------------------------------
 #################################################################################
 #Import python modules
