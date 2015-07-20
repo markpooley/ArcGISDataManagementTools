@@ -2,10 +2,11 @@
 # -*- coding: utf-8 -*-
 #--------------------------------------------------------------------------------------------------
 # Name          : New Project Setup.py
-# Author  		: Mark Pooley (mark-pooley@uiowa.edu)
-# Link    		: http://www.ppc.uiowa.edu
-# Date    		: 2015-02-04 09:25:08
-# Version		: $Id$
+# Author  	: Mark Pooley (mark-pooley@uiowa.edu)
+# Github        : http://github.com/markpooley
+# Link    	: http://www.ppc.uiowa.edu
+# Date    	: 2015-02-04 09:25:08
+# Version	: 1.0
 # Description	: Script that creates three file geodatabases for a New Project that is named by
 # the user. A GDB with the Project name is created, as well as an output and scratch GDB.
 # Additionally, folders for outputs and MXDs are created. A scritps folder is created and a script
