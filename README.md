@@ -1,5 +1,5 @@
 #ArcGIS Project Data Management Toolset
-A small toolset ot help create consistent project folder structures, identify idle/unused data within a project, and batch delete data with workspaces.
+A small toolset to help create consistent project folder structures, identify idle/unused data within a project, and batch delete data within workspaces.
 
 ##New Project Setup
 A small tool that helps maintain consistent folder/file struture accross multiple projects. Addtionally a backup script is created. The tool creates a folder named for the project. Within that folder a three geodatabases are created:
