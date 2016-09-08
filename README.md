@@ -26,7 +26,7 @@ A Script folder is created as well, and a script called "CopyProject.py" is copi
     - Maps
   - Scripts
   - ProjectName.gdb
-  - Ouput.gdb
+  - Output.gdb
   - Scratch.gdb
 
 **It is recommended that you adopt a consistent data naming convention as well. For example, using "temp_" as a prefix to all intermediate data will help identify said data for batch deletion.**
